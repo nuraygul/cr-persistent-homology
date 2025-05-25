@@ -6,9 +6,7 @@ This directory contains code and documentation for reproducing the classificatio
 **"Classification of CR Images via Jet Equivalence Using Persistent Homology"**  
 by Nuray Gül
 
----
-
-## 📌 Overview
+## Overview
 
 This pipeline evaluates whether holomorphic maps with different jet-level agreements can be classified based on the topological structure of their CR boundary images.
 
@@ -18,9 +16,7 @@ The process includes:
 2. Computing persistent homology features (Persistence Images, Betti curves).
 3. Training classifiers (SVM, RF, MLP) to distinguish jet-equivalent classes.
 
----
-
-## 🗂️ Files
+##  Files
 
 | File | Purpose |
 |------|---------|
@@ -30,9 +26,7 @@ The process includes:
 | `main.py` | Runs the full pipeline from data generation to evaluation |
 | `confusion_matrix.png` | Visualization of classifier performance (included after running) |
 
----
-
-## ▶️ How to Run
+## How to Run
 
 1. **Install dependencies**:
 ```bash
@@ -52,7 +46,7 @@ This will:
 
 ---
 
-## 📈 Expected Output
+## Expected Output
 
 Final classification performance (SVM):
 
@@ -68,6 +62,6 @@ Final classification performance (SVM):
 
 ---
 
-## 📎 Reproducibility
+##  Reproducibility
 
 All results in Section 6 of the paper can be reproduced using this pipeline.
