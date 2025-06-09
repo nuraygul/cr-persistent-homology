@@ -4,7 +4,7 @@
 This directory contains code and documentation for reproducing the classification experiments described in Section 6 of the paper:
 
 **"Classification of CR Images via Jet Equivalence Using Persistent Homology"**  
-by Nuray Gül
+by ...
 
 ## Overview
 
