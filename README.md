@@ -62,7 +62,7 @@ The code simulates holomorphic maps from the unit ball $\mathbb{B}^n \subset \ma
 
 If you use this code in your research, please cite the associated paper:
 
-> (2025). *Classification of CR Images via Jet Equivalence Using Persistent Homology*. Sakarya University Journal of Science (in review).
+> (2025). *Classification of CR Images via Jet Equivalence Using Persistent Homology*. Maejo International Journal of Science and Technology (in review).
 
 ---
 
