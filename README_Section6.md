@@ -64,4 +64,4 @@ Final classification performance (SVM):
 
 ##  Reproducibility
 
-All results in Section 6 of the paper can be reproduced using this pipeline.
+All results reported in the manuscript can be reproduced using this pipeline.
