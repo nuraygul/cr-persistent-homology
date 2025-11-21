@@ -68,4 +68,4 @@ If you use this code in your research, please cite the associated paper:
 
 ## Contact
 
-For questions or collaboration:  ...@...
+For questions or collaboration:  ngul@beu.edu.tr
