@@ -1,7 +1,7 @@
 
-# Jet Structure Classification via Persistent Homology (Section 6)
+# Jet Structure Classification via Persistent Homology
 
-This directory contains code and documentation for reproducing the classification experiments described in Section 6 of the paper:
+This directory contains the code and documentation associated with the jet-classification experiments discussed in the manuscript.
 
 **"Classification of CR Images via Jet Equivalence Using Persistent Homology"**  
 by ...
